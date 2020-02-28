@@ -29,7 +29,7 @@ Escape character is '^]'.
 
 ## 1.1.c
 
-```log
+```console
 # Nmap 7.80 scan initiated Thu Feb 27 16:08:02 2020 as: nmap -sS -A -o - 192.168.43.248
 Nmap scan report for debian (192.168.43.248)
 Host is up (0.017s latency).
